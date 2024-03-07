@@ -11,7 +11,8 @@ Brainwave is Modern UI/UX Website with React & Tailwind CSS.
 <br/>
 :link: Link to the live project: [Link](https://brainwave-beige-gamma.vercel.app/)  
 <br/>
-<img src='https://res.cloudinary.com/dirvusyaz/image/upload/v1696611854/3_xftplv.png'/>
+<img src='./src/assets/2.png'/>
+<img src='./src/assets/3.png'/>
 <br/>
 
 ## My Process:
